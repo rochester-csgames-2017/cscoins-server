@@ -1,3 +1,6 @@
+# What is this
+This is basically a copy of the given code for cscoins, with minor fixes and scripts.
+
 # Important!
 
 This document might still be updated until the beginning of the CS Games 2017. We recommend that interested parties watch the [https://github.com/csgames/cscoins](https://github.com/csgames/cscoins) repository to be notified as soon as a new change is introduced. For any issue, bug or needed clarification, please open an issue in the GitHub project.
